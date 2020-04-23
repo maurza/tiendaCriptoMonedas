@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "criptomonedas"
+    }
+  },
+  "defaultProject": "criptomonedas",
+  "cli": {
+    "analytics": "0a86fdfa-34cb-4f3c-9337-800d7134a5fd"
+  }
 }
